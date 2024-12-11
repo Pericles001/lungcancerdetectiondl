@@ -41,7 +41,7 @@ The notebooks can be executed on **Kaggle**, **Google Colab**, or **SageMaker**.
 1. Clone this repository or download the notebooks:
    ```bash
    git clone https://github.com/Pericles001/lungcancerdetectiondl.git
-   cd lung_cancer_detection_dl
+   cd lung_cancerdetectiondl
 
 1.  Open one of the notebooks on your preferred platform:
 
