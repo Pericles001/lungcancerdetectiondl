@@ -1,6 +1,6 @@
 # Lung Cancer Detection using Deep Learning
 
-This repository contains the final project for the Deep Learning course at Carnegie Mellon University Africa. The project focuses on leveraging deep learning techniques to improve the early detection of lung cancer using CT scan images and the EfficientNet-B7 model.
+This repository contains the final project for the Deep Learning course at Carnegie Mellon University. The project focuses on leveraging deep learning techniques to improve the early detection of lung cancer using CT scan images and the EfficientNet-B7 model.
 
 ## Team Members
 
